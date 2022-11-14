@@ -1,0 +1,35 @@
+{
+    "app": {
+        "inicio": "Inicio",
+        "proyectos": "Proyectos",
+        "contacto": "Contacto"
+    },
+    
+    "home": {
+        "bienvenida": "Bienvenido a mi página web",
+        "p1": "Hola, yo soy <span>Carlos Juan González</span> y soy un desarrollador FullStack autodidacta.",
+        "p2": "Me especializo en desarrollo de backends con <a href='/Projects/6357a43e511c03fae05b0e7f'>PHP</a>, y he desarrollado varios proyectos tanto con <a href='/Projects/6357a43e511c03fae05b0e7f'>Symfony</a> como con <a href='/Projects/635ff226ed0a882cd86c24bb'>Laravel</a>.",
+        "p3": "Para el frontend, <a href='/Projects/63625224b38e0cfc11db223c'>Angular</a> es el Framework en el cual tengo más experiencia, he trabajado con el tanto con <a href='/Projects/63625224b38e0cfc11db223c'>PHP</a> como con <a href='/Projects/6357a43e511c03fae05b0e7f'>Java</a>.",
+        "contacto": "CONTACTAR"
+    },
+
+    "contact": {
+        "contacto": "CONTACTAD CONMIGO",
+        "span1": "Estoy buscando trabajo de desarrollador, tengo experiencia en desarrollo fullstack.",
+        "span2": "Si estan interesados dejadme un mensaje y os contactare a la mayor brevedad posible.",
+        "gracias":"¡Gracias Por su mensaje!",
+        "span3": "Me pondre en contacto con ustedes a la mayor brevedad posible.",
+        "span4":"Y Muchas Gracias por dedicarme su tiempo.",
+        "span5": "*Los campos en rojo son requeridos*",
+        "input1": "Nombre",
+        "input2": "Correo Electronico",
+        "input3": "Asunto",
+        "input4": "Mensaje",
+        "input5": "Enviar Mensaje"
+    },
+
+    "error": {
+        "texto": "Lo siento, la pagína que esta buscando no existe.",
+        "regresar": "REGRESAR"
+    }
+}
